@@ -1,2 +1,3 @@
-
-![CiNAT-Birds-2021](Fig.png)
+# Wearable armband for blood pressure prediction using PPG
+![](Poster.jpg)
+![](Fig.png)
